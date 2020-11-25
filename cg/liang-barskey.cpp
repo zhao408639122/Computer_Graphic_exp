@@ -9,8 +9,8 @@
 const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 
-const char* vertexShaderSource = "D:/work/CG/cg/cg/shader.vs";
-const char* fragmentShaderSource = "D:/work/CG/cg/cg/shader.fs";
+const char* vertexShaderSource = "./shader.vs";
+const char* fragmentShaderSource = "./shader.fs";
 
 
 int mouseCount, lineControl, windowControl, windowInit;
